@@ -1,4 +1,4 @@
-# Hi, I'm Öktem! 👋 
+<h1 align="center"> Hey, I'm Öktem! 👋 </h1>
 
 ### Glad to see you here!
 
@@ -17,7 +17,9 @@ I'm a student of "neue Fische" and I am doing the **Web Development** course par
 - <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-
+<p align: "center">
+<a href="https://www.linkedin.com/in/oektemkalkan-3b641a26b"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="assets/linkedin.svg"></a>
+</p>
 <!--
 **oektemkalkan/oektemkalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
