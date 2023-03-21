@@ -10,7 +10,7 @@ I'm a student of "neue Fische" and I am doing the **Web Development** course par
 
 #### Things i code with 
 
-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange" />
+- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 - <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue" />
 - <img alt="JS" src="https://img.shields.io/badge/-JavaScript-yellow" />
 - <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
