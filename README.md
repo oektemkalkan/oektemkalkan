@@ -1,4 +1,4 @@
-# Hi, I'm Öktem Kalkan! 👋
+# Hi, I'm Öktem! 👋 
 
 ### Glad to see you here!
 
