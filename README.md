@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Öktem Kalkan! 👋
+
+### Glad to see you here!
+
+I'm a student of "neue Fische" and I am doing the Web Development course part-time.
+I live in Stuttgart and my hobby is Martial Arts.
+
+![Beach]([https://unsplash.com/de/fotos/K_TbABnVzHo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.sydney.com%2Fthings-to-do%2Fbeach-lifestyle%2Fbondi-beach&psig=AOvVaw3rkUDD9Dj2hmSBJDv_aqwM&ust=1679479309021000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCMiRzY7i7P0CFQAAAAAdAAAAABDDBg)](https://de-int-prod.sydney.com/sites/international/files/styles/header_slider/public/2016-12/Bondi-Beach-Sunrise-DNSW.webp?itok=tDqXvAzj))
+
+- Html/CSS
+- JavaScript
 
 <!--
 **oektemkalkan/oektemkalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
