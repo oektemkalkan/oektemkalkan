@@ -3,7 +3,7 @@
 <h1 align="center"> W E L C O M E </h1>
 
 <p align="center"> 
-<img src="https://www.gohawaii.com/sites/default/files/hero-unit-images/09409_SunsetBeachOahu.jpg" height="235" width="1020">
+<img src="https://www.gohawaii.com/sites/default/files/hero-unit-images/09409_SunsetBeachOahu.jpg" height="210" width="950">
 </p>
 
 ##### Glad to see you here! 👋
