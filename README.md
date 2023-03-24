@@ -21,7 +21,6 @@ I am **Öktem** and a student at '[neue Fische](https://www.neuefische.de/)'. Cu
 <br>
 
 <p align="center">
-<a href="http://www.github.com/oektemkalkan"><img src="https://github-readme-stats.vercel.app/api?username=oektemkalkan&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="GitHub stats" /></a> 
 <a href="http://www.github.com/oektemkalkan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oektemkalkan&stroke=64748b&background=171717&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 </p>
 
