@@ -12,7 +12,7 @@
 
 <br>
 
-I am **Öktem** and a student at '[neue Fische](https://www.neuefische.de/)'. Currently, I am completing the <i>**Web Development**</i> course part-time, which will end on September 26th.
+Hi my name is **Öktem**, I am 21 years old and a junior frontend developer. My only passion used to be martial arts, until I discovered coding. The most important thing to me about this job is the creative approach to solving a task.
 
 >I live in Stuttgart (Germany) and my hobbies are Martial Arts, Fitness and photography. 🌱
 
