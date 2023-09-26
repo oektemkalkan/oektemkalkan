@@ -24,8 +24,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oektemkalkan&stroke=64748b&background=171717&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oektemkalkan&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-
 <br>
 <br>
 
