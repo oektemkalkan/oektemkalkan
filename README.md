@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-<a href="http://www.github.com/oektemkalkan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oektemkalkan&stroke=64748b&background=171717&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oektemkalkan&stroke=64748b&background=171717&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
 </p>
 
 <br>
