@@ -8,8 +8,6 @@
 <img src="https://www.gohawaii.com/sites/default/files/hero-unit-images/09409_SunsetBeachOahu.jpg" height="180" width="1020">
 </p>
 
-###### Glad to see you here! 👋🏼
-
 <br>
 
 >Hi my name is **Öktem**, I am 21 years old and a junior frontend developer.
