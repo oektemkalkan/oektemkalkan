@@ -10,7 +10,7 @@
 
 <br>
 
->Hi my name is **Öktem**, I am 21 years old and a junior frontend developer.
+>Hi my name is **Öktem**, I am 22 years old and a junior frontend developer.
 >My only passion used to be martial arts, until I discovered coding. The most important thing to me about this job is the creative approach to solving a task.
 
 
